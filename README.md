@@ -23,7 +23,7 @@ the findings of this project will help him to take right course of actions. He a
 of non performing employees, so that any penalization of non-performing employee, if required, may
 not significantly affect other employee morals.
 
-## Insights of the project
+## Insights to be found
 The following insights are expected from this project.
 1. Department wise performances
 2. Top 3 Important Factors effecting employee performance
